@@ -1,0 +1,1 @@
+subir archivos desde punto de trabajo git push here dentro de la carpeta y asi poder trabajar en equipo con diferentes ramas y guiados a una misma función, concentrando todo en en la cuenta git hub.
